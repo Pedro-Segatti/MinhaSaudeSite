@@ -1,0 +1,24 @@
+.btnSupEsquerdo {
+    position: absolute;
+    float: top;
+    top: 15px;
+    left: 15px;
+    z-index: 100;
+}
+
+#home {
+    height: 25px;
+}
+
+#faleConosco {
+    height: 270px;
+}
+
+#icone {
+    height: 30px;
+
+}
+
+#tempo {
+    text-align: center;
+}

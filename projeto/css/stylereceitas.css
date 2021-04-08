@@ -1,0 +1,40 @@
+#fontetitle {
+    font: 23px modern, sans-serif;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+#lista {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#nutricional {
+    font-size: 20px;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+.scroolspySite {
+    position: relative;
+    overflow: auto;
+    height: 800px
+}
+
+#internauta {
+    heigth: 500px;
+    width: 281px;
+}
+
+.btnSupEsquerdo {
+    position: absolute;
+    float: top;
+    top: 15px;
+    left: 15px;
+    z-index: 100;
+}
+
+#home {
+    height: 25px;
+}

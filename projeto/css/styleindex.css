@@ -1,0 +1,10 @@
+.navbar {
+    background-image: linear-gradient(to right, #21221f, #013764);
+    background-repeat: no-repeat;
+}
+
+#fontetitle {
+    font: 20px modern, sans-serif;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
