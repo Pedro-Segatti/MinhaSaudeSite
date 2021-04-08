@@ -1,2 +1,2 @@
-# Teste HTML e CSS
- Testando funcionalidades e comandos HTML e CSS.
+# Trabalho com HTML e CSS
+ Trabalho desenvolvido utilizando HTML e CSS, em sala de aula.
